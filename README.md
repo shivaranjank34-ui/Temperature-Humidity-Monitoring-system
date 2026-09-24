@@ -56,5 +56,5 @@ Store and analyze sensor data for longer periods.
 Team Members' Details Name:Shivaranjank  Register Number: U03ZW24S0092
 Team Members:Mahalakshmi,
 
-https://wokwi.com/projects/475682178620641281
+https://wokwi.com/projects/475867704193573889
 https://thingspeak.mathworks.com/channels/3500612
